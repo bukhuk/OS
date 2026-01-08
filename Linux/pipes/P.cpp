@@ -1,0 +1,24 @@
+#include <iostream>
+#include <string>
+#include <sstream>
+
+int main() {
+    std::string line;
+
+    while (std::getline(std::cin, line)) {
+        std::stringstream ss(line);
+        double number;
+        bool is_first = true;
+
+        while (ss >> number) {
+            if (!is_first) {
+                std::cout << " ";
+            }
+            std::cout << number * number * number;
+            is_first = false;
+        }
+        std::cout << "\n";
+    }
+
+    return 0;
+}
