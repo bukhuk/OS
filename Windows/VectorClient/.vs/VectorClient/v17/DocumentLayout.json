@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OS_BSU\\lab1\\VectorClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1395A1B4-B5C4-46A1-BC59-CC40B2DF8458}|VectorClient\\VectorClient.vcxproj|D:\\OS_BSU\\lab1\\VectorClient\\VectorClient\\VectorClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1395A1B4-B5C4-46A1-BC59-CC40B2DF8458}|VectorClient\\VectorClient.vcxproj|solutionrelative:VectorClient\\VectorClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VectorClient.cpp",
+              "DocumentMoniker": "D:\\OS_BSU\\lab1\\VectorClient\\VectorClient\\VectorClient.cpp",
+              "RelativeDocumentMoniker": "VectorClient\\VectorClient.cpp",
+              "ToolTip": "D:\\OS_BSU\\lab1\\VectorClient\\VectorClient\\VectorClient.cpp*",
+              "RelativeToolTip": "VectorClient\\VectorClient.cpp*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-05T10:51:42.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
